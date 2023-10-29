@@ -1,0 +1,28 @@
+Explain and configure Linux Boot process
+Work with kernel modules
+manage and configure network connections
+configure storage in Linux
+Understand cloud and virtualization concepts
+Set time,time zone,and other localizations
+Handle installation,update and removal of software
+Create,modifyand delete users and groups: Understand user types
+Understand text creation,file processing and output redirection
+Control services using systemd and or SysVlnit
+Describe and explain server roles
+Automate and schedule jobs
+Detail how devices operation in Linux
+Work with different graphical user interface,remote desktops,console redircetion and accessibility.
+Manage file and directory permisions
+leverage context based permission on SELinux and apparmor
+Understand and configure privilege escalation
+Implement and configure access and authentication methods
+Identify and configure security best practices
+Configure logging services
+Enable and configure linux firewalls
+Backup,restore,and compress files and directories
+Resolve issues by analysis system properties
+Optimize performance by analyzing system processes
+Trouble common user,application and hardware issues
+Create deploye and execute BASH scripts
+Perform version control processes in Git
+Understand orchestration concepts and processes.
